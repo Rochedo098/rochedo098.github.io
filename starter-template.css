@@ -1,0 +1,28 @@
+body {
+  padding-top: 5rem;
+}
+
+.center {
+  margin: auto;
+}
+
+.border {
+  border-style: solid;
+  border-width: 5px;
+}
+
+.white {
+    background-color: #fff
+}
+
+.black-text {
+  color: #000
+}
+
+.center-text {
+    text-align: center;
+}
+
+.invisible {
+    color: #f8f9fa
+}
